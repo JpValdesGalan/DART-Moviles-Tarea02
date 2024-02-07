@@ -21,6 +21,6 @@ Principalmente lo unico que me costo trabajo fue manejarme a traves de un archiv
 ![Screenshot02](<./screenshots/Screenshot 2024-02-06 211132.png>)
 
 ### Referencias
-[1] Display a snackbar. (s. f.). Flutter. https://docs.flutter.dev/cookbook/design/snackbars\
-[2] GestureDetector Class - Widgets Library - DART API. (s. f.). https://api.flutter.dev/flutter/widgets/GestureDetector-class.html\
+[1] Display a snackbar. (s. f.). Flutter. https://docs.flutter.dev/cookbook/design/snackbars \
+[2] GestureDetector Class - Widgets Library - DART API. (s. f.). https://api.flutter.dev/flutter/widgets/GestureDetector-class.html \
 [3] Work with long lists. (s. f.-b). Flutter. https://docs.flutter.dev/cookbook/lists/long-lists
